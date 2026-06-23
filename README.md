@@ -1,7 +1,15 @@
 # Ecommerce-Sales-Analysis-Dashboard
 Excited to share my latest project — E-commerce Sales Analysis Dashboard built entirely in Microsoft Excel!
 
+<img width="1754" height="880" alt="Screenshot 2026-06-15 153221" src="https://github.com/user-attachments/assets/15347277-9b11-4595-8ad0-26eaf9e1a75b" />
+
+
 <a href="https://github.com/Tejaswini2703/Ecommerce-Sales-Analysis-Dashboard/blob/main/Ecommerce%20Sales%20Analysis%20Dashboard.xlsx">DataSet</a>
+
+# Bike-Sales-analysis-Dashboard
+Excited to share my Second Project On Bike Sales Analysis Dashboard built entirely in Microsoft Excel!
+<img width="1728" height="867" alt="Screenshot 2026-06-23 190218" src="https://github.com/user-attachments/assets/efba7b43-3f91-4804-938e-6deebac526cc" />
+
 
 ## Project Title: E-commerce Sales Analysis Dashboard
 Tool Used: Microsoft Excel (with Power Pivot, PivotTables, PivotCharts & Slicers)
@@ -41,7 +49,6 @@ The dataset contains 9,994+ order records spanning 2011 to 2014, covering fields
 
 ### Final Dashbord :-
 <a href ="https://github.com/Tejaswini2703/Ecommerce-Sales-Analysis-Dashboard/blob/main/Screenshot%202026-06-15%20153221.png">Dasboard</a><br><br>
-<img width="1754" height="880" alt="Screenshot 2026-06-15 153221" src="https://github.com/user-attachments/assets/15347277-9b11-4595-8ad0-26eaf9e1a75b" />
 
 <br>
 🔗 Feel free to explore, fork, or reach out if you have feedback. Always happy to connect with fellow data enthusiasts! 🙌
