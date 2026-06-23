@@ -74,10 +74,10 @@ The dataset contains customer information including:
 
 ### Business Requirements
 
-📌Identify factors influencing bike purchases.
-📌 Analyze customer demographics and income levels.
-📌 Understand the impact of age and commute distance on sales.
-📌 Compare purchasing behavior across regions and education levels.
+📌Identify factors influencing bike purchases.<br>
+📌 Analyze customer demographics and income levels.<br>
+📌 Understand the impact of age and commute distance on sales.<br>
+📌 Compare purchasing behavior across regions and education levels.<br>
 
 ### Dashboard Covers
 
