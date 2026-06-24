@@ -1,17 +1,3 @@
-# Ecommerce-Sales-Analysis-Dashboard
-Excited to share my latest project — E-commerce Sales Analysis Dashboard built entirely in Microsoft Excel!
-
-<img width="1754" height="880" alt="Screenshot 2026-06-15 153221" src="https://github.com/user-attachments/assets/15347277-9b11-4595-8ad0-26eaf9e1a75b" />
-
-
-<a href="https://github.com/Tejaswini2703/Ecommerce-Sales-Analysis-Dashboard/blob/main/Ecommerce%20Sales%20Analysis%20Dashboard.xlsx">DataSet</a>
-
-# Bike-Sales-analysis-Dashboard
-Excited to share my Second Project On Bike Sales Analysis Dashboard built entirely in Microsoft Excel!
-<img width="1728" height="867" alt="Screenshot 2026-06-23 190218" src="https://github.com/user-attachments/assets/efba7b43-3f91-4804-938e-6deebac526cc" />
-<a href="https://github.com/Tejaswini2703/Ecommerce-Sales-Analysis-Dashboard/blob/main/Bike%20Sales%20Analysis/Bike%20Sales%20Analysis.xlsx">Dataset</a>
-
-
 
 # 📊 Excel Data Analysis Projects
 
@@ -30,8 +16,9 @@ A collection of interactive dashboards built entirely in Microsoft Excel, coveri
 
 **Tool:** Microsoft Excel (Power Pivot, PivotTables, PivotCharts, Slicers)
 
-<!-- Add your E-commerce dashboard screenshot below -->
-![E-commerce Dashboard](screenshots/ecommerce-dashboard.png)
+
+<img width="1754" height="880" alt="Screenshot 2026-06-15 153221" src="https://github.com/user-attachments/assets/15347277-9b11-4595-8ad0-26eaf9e1a75b" />
+
 
 ### Overview
 
@@ -72,8 +59,8 @@ A comprehensive sales analytics dashboard that transforms 9,994+ order records s
 
 **Tool:** Microsoft Excel (PivotTables, PivotCharts, Slicers)
 
-<!-- Add your Bike Sales dashboard screenshot below -->
-![Bike Sales Dashboard](screenshots/bike-sales-dashboard.png)
+
+<img width="1728" height="867" alt="Screenshot 2026-06-23 190218" src="https://github.com/user-attachments/assets/efba7b43-3f91-4804-938e-6deebac526cc" />
 
 ### Overview
 
