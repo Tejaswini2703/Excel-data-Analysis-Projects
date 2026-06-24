@@ -13,103 +13,106 @@ Excited to share my Second Project On Bike Sales Analysis Dashboard built entire
 
 
 
-## Project Title: E-commerce Sales Analysis Dashboard
-Tool Used: Microsoft Excel (with Power Pivot, PivotTables, PivotCharts & Slicers)
+# 📊 Excel Data Analysis Projects
 
-### Overview:
-This project presents a comprehensive sales analytics dashboard built in Microsoft Excel, designed to monitor and evaluate the performance of e-commerce business. The dashboard transforms raw transactional data into actionable business insights through dynamic visualizations and interactive filters.
+A collection of interactive dashboards built entirely in Microsoft Excel, covering real-world business datasets with dynamic charts, PivotTables, and slicers.
 
-### Dataset:
-The dataset contains 9,994+ order records spanning 2011 to 2014, covering fields such as Order ID, Order Date, Ship Mode, Customer Segment, Region, State, Product Category, Sub-Category, Sales, Quantity, Discount, and Profit.
+---
 
-### Business Requirements:
-📌How are Sales, Profit, Orders & Quantity growing Year-over-Year?<br>
-📌 Which product categories generate the most revenue and profit?<br>
-📌 Which regions and states are the top performers?<br>
-📌 Who are the top customers driving the most revenue?<br>
-📌 How do shipping modes impact order volume?<br>
-📌 Why is Profit Margin declining despite growing sales & orders?<br>
-📌 Which products have the highest quantity demand?<br>
+## Projects
 
-###  Learnings:-
-* Dashboard Development
-* Calculated Field
-* Custom Charts and its Formatting
-* Conditional Formatting
-* YoY calculation
-* Sparklines
-* Filters and Sorting
-* Pivot Table
+1. [E-commerce Sales Analysis Dashboard](#1-e-commerce-sales-analysis-dashboard) — YoY sales KPIs, regional performance, and category-wise profit analysis
+2. [Bike Sales Analysis Dashboard](#2-bike-sales-analysis-dashboard) — Customer demographics and purchasing behavior insights
 
-### What the dashboard covers:-
-📈 YoY Growth KPIs — Sales, Profit, Quantity, Orders & Profit Margin<br>
-🛍️ Category-wise Sales & Profit (Furniture, Office Supplies, Technology) <br>
-🗺️ Sales by State — Geographic Map View <br>
-🏆 Top 5 Customers by Revenue <br>
-📦 Product & Quantity Distribution <br>
-🔀 Interactive Slicers by Ship Mode & Region  <br>              
+---
 
-### Final Dashbord :-
-<a href ="https://github.com/Tejaswini2703/Ecommerce-Sales-Analysis-Dashboard/blob/main/Screenshot%202026-06-15%20153221.png">Dasboard</a><br><br>
-******************************************************************************************************************************************************************
-#  Project Title:Bike-Sales-Analysis Dashboard🚲
+## 1. E-commerce Sales Analysis Dashboard
+
+**Tool:** Microsoft Excel (Power Pivot, PivotTables, PivotCharts, Slicers)
+
+<!-- Add your E-commerce dashboard screenshot below -->
+![E-commerce Dashboard](screenshots/ecommerce-dashboard.png)
 
 ### Overview
 
-An interactive Excel dashboard built to analyze customer demographics and purchasing behavior for bike sales. The dashboard uses Pivot Tables, Pivot Charts, and Slicers to provide actionable business insights.
+A comprehensive sales analytics dashboard that transforms 9,994+ order records spanning 2011 to 2014 into actionable business insights. Fields include Order ID, Order Date, Ship Mode, Customer Segment, Region, State, Product Category, Sub-Category, Sales, Quantity, Discount, and Profit.
 
-### Dataset
+### Business Questions Answered
 
-The dataset contains customer information including:
+- How are Sales, Profit, Orders, and Quantity growing year-over-year?
+- Which product categories generate the most revenue and profit?
+- Which regions and states are the top performers?
+- Who are the top customers driving the most revenue?
+- How do shipping modes impact order volume?
+- Why is profit margin declining despite growing sales and orders?
+- Which products have the highest quantity demand?
 
-* Gender
-* Age & Age Bracket
-* Income
-* Marital Status
-* Education
-* Occupation
-* Region
-* Commute Distance
-* Home Ownership
-* Cars Owned
-* Purchased Bike (Yes/No)
+### Dashboard Features
 
-### Business Requirements
-
-📌Identify factors influencing bike purchases.<br>
-📌 Analyze customer demographics and income levels.<br>
-📌 Understand the impact of age and commute distance on sales.<br>
-📌 Compare purchasing behavior across regions and education levels.<br>
-
-### Dashboard Covers
-
-* Average Income by Gender and Purchase Status
-* Bike Purchases by Age Bracket
-* Bike Purchases by Commute Distance
-* Interactive Filters for Marital Status, Education, and Region
+- **YoY Growth KPIs** — Sales, Profit, Quantity, Orders, and Profit Margin
+- **Category-wise Sales and Profit** — Furniture, Office Supplies, Technology
+- **Sales by State** — Geographic map view
+- **Top 5 Customers** by revenue
+- **Product and Quantity Distribution**
+- **Interactive Slicers** by Ship Mode and Region
 
 ### Key Learnings
 
-* Data Cleaning and Preparation
-* Pivot Tables & Pivot Charts
-* Slicers and Interactive Reporting
-* Data Visualization in Excel
-* Customer Behavior Analysis
+- Dashboard development and layout design
+- Calculated fields in PivotTables
+- Custom chart formatting and conditional formatting
+- YoY calculations and Sparklines
+- Filters, sorting, and slicers
+
+📂 [Download Dataset](https://github.com/Tejaswini2703/Ecommerce-Sales-Analysis-Dashboard/blob/main/Ecommerce%20Sales%20Analysis%20Dashboard.xlsx)
+
+---
+
+## 2. Bike Sales Analysis Dashboard
+
+**Tool:** Microsoft Excel (PivotTables, PivotCharts, Slicers)
+
+<!-- Add your Bike Sales dashboard screenshot below -->
+![Bike Sales Dashboard](screenshots/bike-sales-dashboard.png)
+
+### Overview
+
+An interactive dashboard built to analyze customer demographics and purchasing behavior for bike sales. Helps identify which customer segments are most likely to purchase a bike.
+
+### Dataset Fields
+
+Gender, Age and Age Bracket, Income, Marital Status, Education, Occupation, Region, Commute Distance, Home Ownership, Cars Owned, Purchased Bike (Yes/No)
+
+### Business Questions Answered
+
+- What factors influence bike purchases?
+- How do income levels vary across buyer demographics?
+- How does age and commute distance impact purchase decisions?
+- How does purchasing behavior differ across regions and education levels?
+
+### Dashboard Features
+
+- Average income by gender and purchase status
+- Bike purchases by age bracket
+- Bike purchases by commute distance
+- Interactive filters for Marital Status, Education, and Region
 
 ### Key Insights
 
-* Higher-income customers are more likely to purchase bikes.
-* Middle-aged customers show the highest purchase activity.
-* Commute distance influences purchasing decisions.
-* Customer demographics help identify target market segments.
+- Higher-income customers are more likely to purchase bikes
+- Middle-aged customers show the highest purchase activity
+- Shorter commute distances correlate with higher purchase rates
+- Demographics effectively identify target market segments
 
+### Key Learnings
 
+- Data cleaning and preparation
+- PivotTables and PivotCharts
+- Slicers and interactive reporting
+- Customer behavior analysis
 
+📂 [Download Dataset](https://github.com/Tejaswini2703/Ecommerce-Sales-Analysis-Dashboard/blob/main/Bike%20Sales%20Analysis/Bike%20Sales%20Analysis.xlsx)
 
+---
 
-
-
-<br>
-🔗 Feel free to explore, fork, or reach out if you have feedback. Always happy to connect with fellow data enthusiasts! 🙌
-
-
+Feel free to explore, fork, or reach out with feedback. Always happy to connect with fellow data enthusiasts! 🙌
