@@ -9,7 +9,7 @@ A collection of interactive dashboards built entirely in Microsoft Excel, coveri
 
 1. [E-commerce Sales Analysis Dashboard](#1-e-commerce-sales-analysis-dashboard) — YoY sales KPIs, regional performance, and category-wise profit analysis
 2. [Bike Sales Analysis Dashboard](#2-bike-sales-analysis-dashboard) — Customer demographics and purchasing behavior insights
-3. [Company Sales Analysis Dashboard](#3-company-sales-analysis-dashboard) -sales performance, profitability, customer trends, and regional performance
+3. [Company Sales Analysis Dashboard](#3-company-sales-analysis-dashboard) — Sales performance, profitability, customer trends, and regional performance
    
 
 ---
