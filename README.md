@@ -9,6 +9,7 @@ A collection of interactive dashboards built entirely in Microsoft Excel, coveri
 
 1. [E-commerce Sales Analysis Dashboard](#1-e-commerce-sales-analysis-dashboard) — YoY sales KPIs, regional performance, and category-wise profit analysis
 2. [Bike Sales Analysis Dashboard](#2-bike-sales-analysis-dashboard) — Customer demographics and purchasing behavior insights
+   
 
 ---
 
@@ -103,7 +104,7 @@ Gender, Age and Age Bracket, Income, Marital Status, Education, Occupation, Regi
 ---
 
 
-## 1. Company Sales Analysis Dashboard
+## 3. Company Sales Analysis Dashboard
 
 **Tool:** Microsoft Excel (Power Pivot, PivotTables, PivotCharts, Slicers)
 
@@ -147,6 +148,8 @@ Order Date, Year, Month, Customer Name, State,Category, Sub-Category, Product Na
 - Slicers and dynamic filtering
 - Business insight generation from sales data
 - Data visualization and storytelling techniques
+
+📂 [Download Dataset](https://github.com/Tejaswini2703/Excel-data-Analysis-Projects/blob/main/Company%20Sales%20Dashboard/Sales.xlsx)
 
 
 Feel free to explore, fork, or reach out with feedback. Always happy to connect with fellow data enthusiasts! 🙌
